@@ -97,3 +97,5 @@ Press Q or q to quit, any other character to continue. q
 ###########
 USER:zml:1>
 ~~~
+
+[Article in DC](https://community.intersystems.com/post/terminal-multi-line-option)
