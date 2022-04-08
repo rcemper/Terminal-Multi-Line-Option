@@ -100,5 +100,5 @@ USER:zml:1>
 
 [Article in DC](https://community.intersystems.com/post/terminal-multi-line-option)   
 
-[DemoSerer Terminal](https://terminal-multiline.demo.community.intersystems.com/terminal/)     
-[DemoSerer SMP](https://terminal-multiline.demo.community.intersystems.com/csp/sys/UtilHome.csp)  
+[DemoServer Terminal](https://terminal-multiline.demo.community.intersystems.com/terminal/)     
+[DemoServer SMP](https://terminal-multiline.demo.community.intersystems.com/csp/sys/UtilHome.csp)  
