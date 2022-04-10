@@ -103,4 +103,5 @@ USER:zml:1>
 [DemoServer Terminal](https://terminal-multiline.demo.community.intersystems.com/terminal/)     
 [DemoServer SMP](https://terminal-multiline.demo.community.intersystems.com/csp/sys/UtilHome.csp)  
    
-**CodeQuality** in SCREENSHOTS   
+**CodeQuality**   
+<img widht="85%" src="https://openexchange.intersystems.com/mp/img/packages/760/screenshots/m936rchumbtayncbthvwufocgds.jpg">
