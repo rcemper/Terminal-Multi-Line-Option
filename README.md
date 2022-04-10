@@ -104,4 +104,4 @@ USER:zml:1>
 [DemoServer SMP](https://terminal-multiline.demo.community.intersystems.com/csp/sys/UtilHome.csp)  
    
 **CodeQuality**   
-<img widht="85%" src="https://openexchange.intersystems.com/mp/img/packages/760/screenshots/m936rchumbtayncbthvwufocgds.jpg">
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/760/screenshots/m936rchumbtayncbthvwufocgds.jpg">
